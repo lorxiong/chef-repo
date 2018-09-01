@@ -1,5 +1,6 @@
 {
   "id": "user",
+  "username": "user",
   "comment": "user user",
   "uid": 1001,
   "gid": 1001,

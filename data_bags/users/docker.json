@@ -1,0 +1,8 @@
+{
+  "id": "docker",
+  "username": "docker",
+  "comment": "user docker",
+  "uid": 11111,
+  "gid": 987,
+  "password": "!"
+}
